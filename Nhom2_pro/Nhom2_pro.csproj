@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{21276EAD-F06A-443A-BD76-F200A3ECFE0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Nhom2_pro</RootNamespace>
+    <AssemblyName>Nhom2_pro</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaoCaoD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoD.Designer.cs">
+      <DependentUpon>BaoCaoD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChiTietLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChiTietLopHoc.Designer.cs">
+      <DependentUpon>ChiTietLopHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GhiDanhSv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GhiDanhSv.Designer.cs">
+      <DependentUpon>GhiDanhSv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HocKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocKy.Designer.cs">
+      <DependentUpon>HocKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapDiem.Designer.cs">
+      <DependentUpon>NhapDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLD.Designer.cs">
+      <DependentUpon>QLD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLD2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLD2.Designer.cs">
+      <DependentUpon>QLD2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLDSVDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLDSVDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLMH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLMH.Designer.cs">
+      <DependentUpon>QLMH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLSV.Designer.cs">
+      <DependentUpon>QLSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemNganh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemNganh.Designer.cs">
+      <DependentUpon>ThemNganh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TLH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TLH.Designer.cs">
+      <DependentUpon>TLH.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChiTietLopHoc.resx">
+      <DependentUpon>ChiTietLopHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GhiDanhSv.resx">
+      <DependentUpon>GhiDanhSv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocKy.resx">
+      <DependentUpon>HocKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapDiem.resx">
+      <DependentUpon>NhapDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QLD.resx">
+      <DependentUpon>QLD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLD2.resx">
+      <DependentUpon>QLD2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLMH.resx">
+      <DependentUpon>QLMH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLSV.resx">
+      <DependentUpon>QLSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemNganh.resx">
+      <DependentUpon>ThemNganh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TLH.resx">
+      <DependentUpon>TLH.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QLDSVDataSet.xsc">
+      <DependentUpon>QLDSVDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLDSVDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLDSVDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLDSVDataSet.xss">
+      <DependentUpon>QLDSVDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

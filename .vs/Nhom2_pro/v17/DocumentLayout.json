@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|d:\\c#\\nhom2_promax\\btl_nhom2\\nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|d:\\c#\\nhom2_promax\\btl_nhom2\\nhom2_pro\\qld2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qld2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\tlh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\tlh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\themnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\themnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qlsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\chitietlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\chitietlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\baocaod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\baocaod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\chitietlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\chitietlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\themnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\themnganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\ghidanhsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\nhapdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\qldsvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qldsvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qlmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\qld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\tlh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\tlh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|D:\\C#\\Nhom2_promax\\BTL_NHOM2\\nhom2_pro\\hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21276EAD-F06A-443A-BD76-F200A3ECFE0C}|Nhom2_pro\\Nhom2_pro.csproj|solutionrelative:nhom2_pro\\hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLD2.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLD2.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\QLD2.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLD2.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\QLD2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:17:49.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QLMH.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLMH.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\QLMH.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLMH.cs",
+              "RelativeToolTip": "Nhom2_pro\\QLMH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:58:00.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChiTietLopHoc.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ChiTietLopHoc.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\ChiTietLopHoc.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ChiTietLopHoc.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\ChiTietLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:53:36.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QLDSVDataSet.xsd",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLDSVDataSet.xsd",
+              "RelativeDocumentMoniker": "Nhom2_pro\\QLDSVDataSet.xsd",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLDSVDataSet.xsd",
+              "RelativeToolTip": "Nhom2_pro\\QLDSVDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-17T02:47:39.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NhapDiem.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\NhapDiem.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\NhapDiem.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\NhapDiem.cs",
+              "RelativeToolTip": "Nhom2_pro\\NhapDiem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:12:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Menu.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\Menu.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Menu.cs",
+              "RelativeToolTip": "Nhom2_pro\\Menu.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:32:45.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\Program.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Program.cs",
+              "RelativeToolTip": "Nhom2_pro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:32:41.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TLH.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\TLH.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\TLH.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\TLH.cs",
+              "RelativeToolTip": "Nhom2_pro\\TLH.cs",
+              "ViewState": "AQIAAHQBAAAAAAAAAAA+wE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T01:51:41.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QLD.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLD.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\QLD.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLD.cs",
+              "RelativeToolTip": "Nhom2_pro\\QLD.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAowOMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:26:50.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TLH.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\TLH.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\TLH.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\TLH.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\TLH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:12:52.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HocKy.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\HocKy.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\HocKy.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\HocKy.cs",
+              "RelativeToolTip": "Nhom2_pro\\HocKy.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowFsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:17:42.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhapDiem.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\NhapDiem.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\NhapDiem.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\NhapDiem.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\NhapDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:35:53.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChiTietLopHoc.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ChiTietLopHoc.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\ChiTietLopHoc.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ChiTietLopHoc.cs",
+              "RelativeToolTip": "Nhom2_pro\\ChiTietLopHoc.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:07:21.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThemNganh.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ThemNganh.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\ThemNganh.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ThemNganh.cs",
+              "RelativeToolTip": "Nhom2_pro\\ThemNganh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:06:26.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemNganh.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ThemNganh.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\ThemNganh.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\ThemNganh.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\ThemNganh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:56:13.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLD.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLD.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\QLD.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLD.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\QLD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:56:10.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Menu.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\Menu.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Menu.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:56:09.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Form1.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\Form1.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\Form1.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:56:05.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaoCaoD.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\BaoCaoD.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\BaoCaoD.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\BaoCaoD.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\BaoCaoD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:55:49.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GhiDanhSv.cs",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\GhiDanhSv.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\GhiDanhSv.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\GhiDanhSv.cs",
+              "RelativeToolTip": "Nhom2_pro\\GhiDanhSv.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwKgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:20:17.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GhiDanhSv.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\GhiDanhSv.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\GhiDanhSv.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\GhiDanhSv.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\GhiDanhSv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:13:10.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HocKy.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\HocKy.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\HocKy.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\HocKy.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\HocKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:13:09.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLMH.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLMH.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\QLMH.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLMH.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\QLMH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:13:07.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLSV.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLSV.cs",
+              "RelativeDocumentMoniker": "Nhom2_pro\\QLSV.cs",
+              "ToolTip": "D:\\C#\\Nhom2_promax\\BTL_NHOM2\\Nhom2_pro\\QLSV.cs [Design]",
+              "RelativeToolTip": "Nhom2_pro\\QLSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:13:06.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
